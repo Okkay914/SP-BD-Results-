@@ -1,4 +1,6 @@
-import * as React from "react"
+"use client";  // Add this line at the top
+
+import React from 'react';
  
 const Card = React.forwardRef(({ className, ...props }, ref) => (
   <div
