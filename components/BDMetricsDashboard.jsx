@@ -1,3 +1,4 @@
+"use client";  // Add this line at the top
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from './ui/card';
 import { LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ReferenceLine } from 'recharts';
