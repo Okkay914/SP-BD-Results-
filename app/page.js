@@ -1,3 +1,5 @@
+"use client";  // Add this line at the top
+
 import BDMetricsDashboard from '../components/BDMetricsDashboard'
 
 export default function Home() {
